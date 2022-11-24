@@ -1,0 +1,11 @@
+salary1=5000
+salary2=7000
+salary3=5000
+salary=salary1+salary2+salary3
+print('welcome')
+print('dear',end=' ')
+print('sir',end=' ')
+print('total salary is salary')
+print('total salary is',salary)
+print(salary1,salary2,salary3,sep='---')
+print(salary1,salary2,salary3,sep=':')
