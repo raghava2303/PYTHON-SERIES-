@@ -1,0 +1,7 @@
+val1=eval(input('enter the value of first variable:'))
+print('val1=',val1,'type:',type(val1))
+val2=eval(input('enter the value of second variable:'))
+print('val2=',val2,'type:',type(val2))
+val3=eval(input('enter the value of third variable:'))
+print('val3=',val3,'type:',type(val3))
+
