@@ -1,0 +1,4 @@
+side=float(input("enter the side of square:"))
+area=side*side
+print("the area of square using variable is:",area)
+print("the area of square computed directly is:",side*side)
