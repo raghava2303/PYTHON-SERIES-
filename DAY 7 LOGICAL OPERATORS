@@ -1,0 +1,6 @@
+num1=25
+num2=55
+num3=45
+print("the use of and operator:",num1>num3 and num2>num3)
+print("the use of or operator:",num1>num3 or num2>num3)
+print("the use of not operator:",not num1<num3)
